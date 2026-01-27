@@ -1,0 +1,9 @@
+{
+  "name": "我的刷题PWA",
+  "short_name": "刷题",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "icons": []
+}
